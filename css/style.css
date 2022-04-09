@@ -1,0 +1,35 @@
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+.bg-img {
+    background-image: url('../images/Untitled-1.jpg');
+    width: 100%;
+    height: 1080px;
+}
+.list {
+    margin: 40px 54px 0 0;
+}
+.logo {
+    margin: 40px 0 0 235px;
+}
+.header-div {
+    max-width: 500px;
+    width: 100%;
+    margin: 117px 0 0 235px;
+}
+.p-header {
+    max-width: 500px;
+    width: 100%;
+    font-size: 96px;
+    margin-bottom: 118px;
+}
+.p-header2 {
+    max-width: 375px;
+    width: 100%;
+    font-size: 30px;
+    margin-bottom: 78px;
+}
+
