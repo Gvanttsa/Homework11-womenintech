@@ -34,10 +34,33 @@ ul {
 }
 .section-main-div {
     margin-top: 139px;
-    margin-bottom: 209px;
+    margin-bottom: 176px;
 }
+
 .section-div1 {
-    width: 248px;
+    width: 200px;
 }
+.section2-div {
+    width: 100%;
+    background-color: #FFAA00;
+}
+.section2-paragraph {
+    max-width: 436px;
+    width: 100%;
+}
+.section2-paragraph {
+    padding-top: 346px;
+}
+.img-div {
+    max-width: 809px;
+    width: 100%;
+}
+ 
 
-
+@media (max-width:996px) {
+    .section2-paragraph {
+        padding: 0%;
+        margin-top: 50px;
+        text-align: center;
+    }
+}
