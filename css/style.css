@@ -64,3 +64,15 @@ ul {
         text-align: center;
     }
 }
+
+
+.paragraph-margin {
+    margin-bottom: 118px;
+}
+.box {
+    max-width: 400px;
+    width: 100%
+}
+.button-red {
+    margin: 128px 0 183px 0;
+}
